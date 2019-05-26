@@ -1,0 +1,217 @@
+*{
+	
+}
+#container{
+	min-height: 400px;
+	width: 970px;
+	background-color: #265174;
+}
+#top{
+	height: 20px;
+	width: 200px;
+	margin-left:770px;
+	color: white;
+	display: block;
+}
+#header{
+	height: 80px;
+	width: 970px;
+	display: block;
+}
+#image{
+	height: 80px;
+	width: 280px;
+	background-image: url("python.png");
+	margin-left: 10px;
+	background-size: contain;
+	display: inline-block;
+}
+#search{
+	height: 80px;
+	width: 470px;
+	margin-left:180px;
+	vertical-align: top;
+	display: inline-block;
+}
+#searchBar{
+	height: 60px;
+	width: 250px;
+	margin-left: 220px;
+	background-color: #444341;
+	border-radius: 4px;
+	vertical-align: middle;
+}
+#searchData{
+	margin-left: 30px;
+	height: 30px;
+	color: silver;
+ 	margin-top: 4px;
+	text-align: center;
+}
+#data{
+	height: 30px;
+	width: 150px;
+	display: inline-block;
+	vertical-align: middle;
+}
+#sub{
+	height: 20px;
+	width: 30px;
+	padding: 5px;
+	margin-top: 12px;
+	margin-left: 49px;
+	background-color: 	#204059;
+	text-align: center;
+	border-width: 1.5px;
+	border-color: silver;
+	border-style: solid;
+	border-radius: 7px;
+	color: white;
+	vertical-align: middle;
+	display: inline-block;
+}
+#dropDowns{
+	height: 30px;
+	width: 820px;
+	margin-left: 80px;
+	background-color:	#4375A3;
+	color: white;
+	padding:3px;
+	font: 18px Arial, sans-serif;
+	box-shadow: 2px 2px #0f0e0e;
+	border-radius: 5px;
+	margin-bottom: 2px;
+	display: block;
+}
+.smallBox{
+	height: 20px;
+	min-width: 100px;
+	text-align: center;
+	margin-top:5px;
+	margin-left:25px;
+	display: inline-block;
+}
+#navBar{
+	min-height: 260px;
+	width: 190px;
+	margin-top: 20px;
+	margin-left: 80px;
+	color: white;
+	display: inline-block;
+}
+ul {
+	list-style: none;
+	text-align: center;
+}
+ul li{
+	padding:5px;
+}
+ul li:before{
+	color: #2cdc1c;
+	content: "\00BB\0020";
+}
+.underline{
+	text-decoration: underline;
+}
+#mainbody{
+	height: 260px;
+	width: 612px;
+	margin-top: 20px;
+	margin-left: 20px;
+	text-align: center;
+	color: white;
+	font: 13px Arial, sans-serif;
+	display: inline-block;
+	vertical-align: top;
+}
+.slogan{
+	font: 16px Arial, sans-serif;
+	margin-top: 10px;
+	color: #acac54;
+	font-style: italic;
+}
+.zen{
+	margin-top: 15px;
+	font-size: 14px;
+}
+#info{
+	height: 240px;
+	width: 970px;
+	background-color: white;
+	font: 11px Arial, sans-serif;
+	text-align: center;
+	display: block;
+}
+#gettingStarted{
+	height: 240px;
+	width: 300px;
+	margin-right: 30px;
+	display: inline-block;
+	vertical-align: top;
+}
+#applications{
+	height: 240px;
+	width: 300px;
+	display: inline-block;
+	vertical-align: top;
+}
+#info ul {
+	text-align:start;
+	list-style-type: square;
+}
+#info ul li:before{
+	color: #0b0c0b;
+	content: none;
+}
+.lightblue{
+	color: lightblue;
+}
+#mainfooter{
+	height: 100px;
+	width: 970px;
+	background-image: linear-gradient(#393a4b,#6a6ad3);
+	display: block;
+	color: #89cfe6;
+	font: 16px Arial, sans-serif;
+}
+#help{
+	height: 20px;
+	min-width: 50px;
+	margin-top:45px;
+	margin-left: 200px;
+	display: inline-block;
+}
+#diversity{
+	height: 20px;
+	min-width: 50px;
+	margin-top:45px;
+	margin-left:50px;
+	display: inline-block;
+}
+#bugs{
+	height: 20px;
+	min-width: 50px;
+	margin-top:45px;
+	margin-left:50px;
+	display: inline-block;
+}
+#copyRight{
+	height:15px;
+	width: 970px;
+	text-align:center;
+	font: 10px Arial, sans-serif;
+	margin-top:20px;
+}
+.lists{
+	height: 100px;
+	width: 470px;
+}
+.topWord{
+	color: 	#557435;
+	text-decoration: underline;
+}
+hr
+{
+	background-color:#1f88e3;
+	padding:1px;
+}
