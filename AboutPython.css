@@ -4,6 +4,7 @@
 #container{
 	min-height: 400px;
 	width: 970px;
+	margin: auto;
 	background-color: #265174;
 }
 #top{
